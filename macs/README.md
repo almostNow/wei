@@ -12,7 +12,7 @@ list_corporation_for_mac.py -o ./linux_oui.csv -m ./macs.csv
 Creates the file *macs_with_corp_name.csv* as output
 
 ### NOTES
-I have to use some of the commands listed in *setup.sh* 
+I had to use some of the commands listed in *setup.sh* 
 to convert macs.csv and oui.csv to be linux friendly.
 
 ### Extra
